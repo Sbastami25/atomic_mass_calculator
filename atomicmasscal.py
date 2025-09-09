@@ -1,5 +1,5 @@
 # atomic_mass_calculator.py
-from mendeleev import element # Import the element module
+from mendeleev import element # type: ignore # Import the element module
 
 def calculate_atomic_mass(element_symbol):
     """
